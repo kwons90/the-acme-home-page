@@ -1,0 +1,119 @@
+#page {
+    width: 960px;
+    background-color: rgb(239, 239, 239);
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: dodgerblue;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 1px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+}
+
+.subHeader {
+    background-color: tomato;
+    color: white;
+    font-family: sans-serif;
+    padding: 0.4px;
+    text-indent: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.bodyText {
+    font-family: sans-serif;
+}
+
+.greyBox {
+    height: 50px;
+    background-color: rgb(204, 204, 204);
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#tomatoBox {
+    height: 3rem;
+    width: 3rem;
+    background-color: tomato;
+    display: inline-block;
+}
+
+#blueBox {
+    height: 3rem;
+    width: 3rem;
+    background-color: dodgerblue;  
+    display: inline-block;
+}
+
+#tomato {
+    display: inline-block;
+    left: 80px;
+    bottom: 110px;
+}
+#blue {
+    display: inline-block;
+    left: 80px;
+    bottom: 27px;
+}
+
+.line {
+    height: 1px;
+    background: tomato;
+    margin-bottom: 20px;
+}
+
+.avatarBox {
+    font-family: sans-serif;
+
+}
+
+.orangeText {
+    color: tomato;
+}
+
+.blueText {
+    color: dodgerblue;
+}
+
+#charmander {
+    height: 120px;
+    width: 120px;
+    background-size: cover;
+    background-image: url('images/charmander.jpg');
+    border-radius: 50%;
+}
+
+#squirtle {
+    height: 120px;
+    width: 120px;
+    background-size: cover;
+    background-image: url('images/007Squirtle_XY_anime.png');
+    border-radius: 50%;
+}
+
+#bulbasaur {
+    height: 120px;
+    width: 120px;
+    background-size: cover;
+    background-image: url('images/1-Bulbasaur.png');
+    border-radius: 50%;
+}
+
+#pikachu {
+    height: 120px;
+    width: 120px;
+    background-size: cover;
+    background-image: url('images/76479dd91dc55c2768ddccfc30a4fbf5.png');
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
